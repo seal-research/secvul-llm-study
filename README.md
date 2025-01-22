@@ -1,4 +1,4 @@
-# Evaluating the Effectiveness of Large Language Models in Detecting Security Vulnerabilities
+# Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities
 
 # Installation
 
