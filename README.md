@@ -1,4 +1,4 @@
-# Artifact for LLM Study
+# Evaluating the Effectiveness of Large Language Models in Detecting Security Vulnerabilities
 
 # Installation
 
