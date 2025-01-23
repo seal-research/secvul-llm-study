@@ -1,5 +1,7 @@
 # Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities
 
+This is the artifact for the paper titled "Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities" (ICST 2025).
+
 # Installation
 
 Use `setup_conda.sh` to install miniconda if not installed yet
@@ -20,5 +22,16 @@ Use `setup.sh` to create a conda environment named `ml` and install all dependen
 # Datasets
 
 This artifact contains CVEFixes Java and C/C++, Juliet Java and C/C++, and OWASP datasets.
+
+# Citation
+
+```
+@inproceedings{secvulllmstudy,
+  title={Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities},
+  author={Avishree Khare and Saikat Dutta and Ziyang Li and Alaia Solko-Breslin and Mayur Naik and Rajeev Alur},
+  booktitle={Proceedings of the 2025 IEEE Conference on Software Testing, Validation and Verification},
+  year={2025}
+}
+```
 
 
