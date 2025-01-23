@@ -25,7 +25,7 @@ This artifact contains CVEFixes Java and C/C++, Juliet Java and C/C++, and OWASP
 
 # Citation
 
-```
+```bibtex
 @inproceedings{secvulllmstudy,
   title={Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities},
   author={Avishree Khare and Saikat Dutta and Ziyang Li and Alaia Solko-Breslin and Mayur Naik and Rajeev Alur},
